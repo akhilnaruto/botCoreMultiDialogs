@@ -1,0 +1,24 @@
+{
+  "name": "coremultidialogs",
+  "version": "1.0.0",
+  "description": "multi dialogs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilnaruto/botCoreMultiDialogs.git"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "botbuilder": "*",
+    "restify": "*"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilnaruto/botCoreMultiDialogs/issues"
+  },
+  "homepage": "https://github.com/akhilnaruto/botCoreMultiDialogs#readme"
+}
